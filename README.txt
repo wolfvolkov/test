@@ -1,1 +1,1 @@
-this is test project for GITHUB
+this is test project for GITHUB some new text
